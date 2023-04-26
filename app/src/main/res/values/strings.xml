@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson2Exercise</string>
+    <string name="message">Welcome to Android Studio!</string>
+    <string name="texttext">Large Text</string>
+</resources>
